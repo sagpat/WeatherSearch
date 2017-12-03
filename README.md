@@ -2,4 +2,4 @@
 
 Helps you to show the Weather for city you!  
 
-Built using React + Redux.
+Built in progress using React + Redux.
