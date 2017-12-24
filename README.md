@@ -2,4 +2,8 @@
 
 Helps you to show the Weather for city you!  
 
-Built in progress using React + Redux.
+-- How to use?  
+1. Go to the repo folder.  
+2. npm install  
+3. npm start  
+4. open app at localhost:8080  
